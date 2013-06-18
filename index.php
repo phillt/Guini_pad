@@ -22,8 +22,8 @@
 //    call_user_func_array($method, $controller_parameters);
 //}else 
 //if(isset($url[1])){
-//    $controller->{$url[1]}();
-// Hello (in master)
+//    $controller->{$url[1]}();=
+// This is another note (dev)
 ?>
 <html>
     <head>
