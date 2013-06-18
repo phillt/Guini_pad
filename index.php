@@ -23,7 +23,7 @@
 //}else 
 //if(isset($url[1])){
 //    $controller->{$url[1]}();
-// This is a new note/
+// Hello (in master)
 ?>
 <html>
     <head>
